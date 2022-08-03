@@ -1,0 +1,19 @@
+{
+    "name": "ridiyatullin/hello-world",
+    "description": "My first package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ridiyatullin\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EternalJunior",
+            "email": "puhat-lamer@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
